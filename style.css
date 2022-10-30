@@ -13,6 +13,12 @@ h1 {
 
 p {
     font-size: 25px;
+    text-align: justify;
+    padding: 0 10px;
+}
+
+.sec-p {
+    padding-right: 80px;
 }
 
 body {
@@ -30,9 +36,21 @@ section {
     background-repeat: no-repeat;
 }
 
+.sec {
+    padding-left: 30px;
+    display: flex;
+    background-image: url(Frame3.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+
 .first-text {
     padding-top: 100px;
     padding-left: 50px;
+}
+
+.sec-text {
+    padding-left: 10px;
 }
 
 .first-pic {
